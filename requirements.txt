@@ -1,3 +1,4 @@
+# requirements.txt
 fastapi==0.109.2
 uvicorn==0.27.1
 python-multipart==0.0.7
@@ -14,3 +15,5 @@ email-validator==2.1.0
 python-jose==3.3.0
 motor==3.3.1
 pymongo==4.6.1
+python-dotenv==1.0.1
+math==0.0.1
